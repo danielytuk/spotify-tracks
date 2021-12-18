@@ -11,7 +11,9 @@
 ### [+] Description
 This repository will be updated now and then... when I do, it'll be around 1000-10000 tracks added each time.
 
-Feel free to make an API :)
+I have thrown together a basic api.
+
+https://ScholarAlludeLowdown.danielytuk.repl.co
 
 ### [+] Disclaimer 
 Some tracks may be unavailable, due to region blocks/licensing.
