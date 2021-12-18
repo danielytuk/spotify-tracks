@@ -19,5 +19,5 @@ Some tracks may be unavailable, due to region blocks/licensing.
 ### [+] Find me on 
 <a href="mailto:contact@dytuk.media" target="_blank"><img src="https://img.shields.io/badge/Email-contact@dytuk.media-blue?style=for-the-badge&logo=gmail"></a>
 
-<a href="https://m.me/danielytuk" target="_blank"><img src="https://img.shields.io/badge/Messenger-danielytuk-blue?style=for-the-badge&logo=messenger"></a>
+<a href="https://discord.gg/r3gmuYBtuX" target="_blank"><img src="https://img.shields.io/badge/Discord-danielytuk-blue?style=for-the-badge&logo=discord"></a>
 
