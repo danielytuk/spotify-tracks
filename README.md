@@ -4,7 +4,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/danielytuk/spotify-tracks?style=for-the-badge&color=orange">
-    <img src="https://img.shields.io/github/forks/danielytuk/spotify-tracks?style=for-the-badge&color=purple">
 <br>
 </p>
 
