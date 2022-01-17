@@ -1,26 +1,33 @@
-<h2 align="center"><u>Spotify Tracks</u></h2>
+# Spotify Tracks
+Literally, a repository filled with Spotify Track URLs, sourced from playlists, youtube, random searches and user submissions.
 
-<h4 align="center"> Random Track URLs for Spotify </h4>
-
-<p align="center">
-    <img src="https://img.shields.io/github/stars/danielytuk/spotify-tracks?style=for-the-badge&color=orange">
-<br>
-</p>
-
-### [+] Description
+# Note
 This repository will be updated now and then... when I do, it'll be around 1000+ tracks added each time.
 
-I have thrown together a basic api.
+# Usefulness
+I have created a very basic API for this, you have two options; [JSON](https://scholaralludelowdown.danielytuk.repl.co/) / [Embed](https://scholaralludelowdown.danielytuk.repl.co/embed).
 
-https://ScholarAlludeLowdown.danielytuk.repl.co - returns a JSON object, with data of a track.
+ **JSON example**
+ ```json
+ {
+	"date": "2013-03-13",
+	"title": "Memoirs - Keeno Remix",
+	"type": "track",
+	"track": "Memoirs - Keeno Remix",
+	"artist": "Rameses B",
+	"image": "https://i.scdn.co/image/ab67616d0000b2731a504a406aaa26bb1d428554",
+	"audio": "https://p.scdn.co/mp3-preview/73a06fe756a3b264028d2f05020026a8c6e92773?cid=a46f5c5745a14fbf826186da8da5ecc3",
+	"link": "https://open.spotify.com/track/5WKFvH9idAfnvr2VJbjmDH",
+	"embed": "https://embed.spotify.com/?uri=spotify:track:5WKFvH9idAfnvr2VJbjmDH"
+}
+ ```
+**Embed example**<br/>
+![enter image description here](https://i.ibb.co/VM9mygh/ndt7-T1-SEJH.png)
 
-https://scholaralludelowdown.danielytuk.repl.co/embed - returns an embed, where you can embed it on your website for a random track each time.
-
-### [+] Disclaimer 
+## Disclaimer
 Some tracks may be unavailable, due to region blocks/licensing.
 
-### [+] Find me on 
-<a href="mailto:contact@dytuk.media" target="_blank"><img src="https://img.shields.io/badge/Email-contact@dytuk.media-blue?style=for-the-badge&logo=gmail"></a>
-
-<a href="https://discord.gg/r3gmuYBtuX" target="_blank"><img src="https://img.shields.io/badge/Discord-danielytuk 1447-blue?style=for-the-badge&logo=discord"></a>
-
+# Support
+I manually go through playlists, youtube, random searches and user submissions manually, with no help; you don't need to support, although it does help.
+Alternatively, you can provide a linkback to either [this reposotory](https://github.com/danielytuk/spotify-tracks/), [my youtube](https://youtube.com/danielytuk), [twitter](https://twitter.com/danielytuk) or [Discord server](https://discord.gg/r3gmuYBtuX).
+<p><a href="https://www.buymeacoffee.com/danielytuk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy-me-a-coffee" /></a><a href="https://www.paypal.me/dytukmedia"> <img align="left" src="https://i.ibb.co/fdpj8p8/paypal-donate-button.png" height="50" width="210" alt="paypal" /></a><a href="https://www.patreon.com/danielytuk"> <img align="left" src="https://i.ibb.co/hZVcbq9/patreon-button.png" height="50" width="210" alt="patreon" /></a></p>
