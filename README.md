@@ -4,6 +4,14 @@ Literally, a repository filled with Spotify Track URLs, sourced from playlists, 
 # Note
 This repository will be updated now and then... when I do, it'll be around 1000+ tracks added each time.
 
+# Discord Server
+A read-only server, which posts a Spotify track every 4 hours *(option for other platforms is also displayed)*.
+200+ tracks have been posted - also the latest music videos on YouTube get posted, every Friday/Saturday.
+
+The best place to find new songs; from newly emerged artists to well known ones.
+*All tracks are sourced from this repository.*
+<a href="https://discord.gg/neprmrJCmp">Join the Server</a>
+
 # Usefulness
 I have created a very basic API for this, you have two options; [JSON](https://scholaralludelowdown.danielytuk.repl.co/) / [Embed](https://scholaralludelowdown.danielytuk.repl.co/embed).
 
