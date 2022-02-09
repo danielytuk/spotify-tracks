@@ -30,7 +30,7 @@ I have created a very basic API for this, you have two options; [JSON](https://s
 }
  ```
 **Embed example**<br/>
-![enter image description here](https://i.ibb.co/VM9mygh/ndt7-T1-SEJH.png)
+![enter image description here](https://imagecdn.app/v1/images/https%3A%2F%2Fi.ibb.co%2FVM9mygh%2Fndt7-T1-SEJH.png)
 
 ## Disclaimer
 Some tracks may be unavailable, due to region blocks/licensing.
